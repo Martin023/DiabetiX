@@ -1,2 +1,2 @@
 # DiabetiX
-Diabetes app 
+Diabetes Mana gement app 
